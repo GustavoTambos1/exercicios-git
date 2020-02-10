@@ -1,1 +1,2 @@
-exercicio git
+exercicio git 2
+estudo sobre git 2
